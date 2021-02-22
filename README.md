@@ -1,2 +1,5 @@
 # hello-world
-repository for demonstration
+repository for demonstration...
+
+Hi, my name is Bugu!
+
